@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Connor Giles/Dropbox/COP3503/Lab9/SourceCode/States.h
+iostream
+-
+fstream
+-
+string
+-
+
+C:/Users/Connor Giles/Dropbox/COP3503/Lab9/SourceCode/main.cpp
+iostream
+-
+map
+-
+random
+-
+ctime
+-
+sstream
+-
+States.h
+C:/Users/Connor Giles/Dropbox/COP3503/Lab9/SourceCode/States.h
+
